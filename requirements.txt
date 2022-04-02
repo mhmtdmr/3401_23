@@ -1,0 +1,6 @@
+python-dotenv
+numpy
+pandas
+jupyter
+
+# pip install -r requirements.txt
