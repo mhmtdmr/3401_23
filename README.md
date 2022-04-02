@@ -1,5 +1,14 @@
 # 3401_23
 
 ## Projenin Amacı
--[] Numpy kütüphanesi derslerini içerir.
--[] Pandas kütüphanesi derslerini içerir.
+    -[] Numpy kütüphanesi derslerini içerir.
+    -[] Pandas kütüphanesi derslerini içerir.
+
+## Install
+    ...
+
+## Settings
+    -[] env-sample dosyasından .env dosyasını oluşturabilirsiniz.
+
+## Run
+    ...
